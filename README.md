@@ -12,10 +12,3 @@ I'm Tcheutchoua Steve
 <br><br>
 <h1 align='center'><i>Stay awesome!</i></h1>
 
-<br><br>
-## My GitHub Stats &#x1f4c8;
-[![Tcheutchoua Steve's github stats](https://github-readme-stats.vercel.app/api?username=Tcheutchoua-Steve&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/Tcheutchoua-Steve/Tcheutchoua-Steve">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcheutchoua-Steve&hide=php,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
