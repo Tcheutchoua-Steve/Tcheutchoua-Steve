@@ -6,7 +6,7 @@
 I'm Tcheutchoua Steve
 - Senior server engineer @ [Vero](https://vero.co/)
 - Oracle [Java 8 certified](https://www.youracclaim.com/badges/79d6345a-10e1-4579-b530-98673a778eee/public_url) 
-- Current languages of interest: Scala
+- Current languages of interest: Scala & Rust
 - Medium term interests : Data engineering 
 
 <br>
